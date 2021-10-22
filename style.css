@@ -1,0 +1,13 @@
+.title-color{
+    color: orangered;
+}
+h4{
+    color: Orange;
+}
+.img img{
+    height: 50px;
+    border-radius: 50%;
+}
+.display-resize{
+    display: flex;
+}
